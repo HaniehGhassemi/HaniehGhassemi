@@ -37,6 +37,6 @@ I am Junior ASP.NET Core Developer who is also interested in learning JavaScript
 <a href="mailto:shaniehghsmie@gmail.com" target="blank">
   <img align="left" alt="Send Mail to me" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
-<a href="#" target="blank">
-  <img align="left" alt="https://stackoverflow.com/users/16680247/hanieh-ghassemi?tab=profile" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
+<a href="https://stackoverflow.com/users/16680247/hanieh-ghassemi?tab=profile" target="blank">
+  <img align="left" alt="My Stack Overflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
 </a>
