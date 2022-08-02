@@ -15,7 +15,7 @@ I am Junior ASP.NET Core Developer who is also interested in learning JavaScript
 
 <h3>Languages</h3>
 
-![c#](https://img.shields.io/badge/C%23-239120?style=flat&color=black&logo=c-sharp&logoColor=a076da)    ![JS](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)        ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&&color=black&logo=html5&logoColor=orange)    ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&color=black&logo=css3&logoColor=2862e8)   ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)    ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![c#](https://img.shields.io/badge/C%23-239120?style=flat&color=black&logo=c-sharp&logoColor=a076da)    ![JS](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)        ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&&color=black&logo=html5&logoColor=orange)     ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
 <h3>Technologies</h3>
