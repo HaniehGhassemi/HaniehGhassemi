@@ -1,14 +1,7 @@
 ### Hi, I'm Hanieh 👋
-I am ASP.NET Core Developer who is also interested in learning JavaScript and React. My interest in coding started in high school. At that time, I was designing my own website and blog with CMS. This way led me to the world of technology and computers. I am currently working in the NiCode as a Back-end developer, which has allowed me to experience the following concepts:<br/>
--ASP.NET Core<br/>
--Entity framework Core<br/>
--Docker<br/>
--Web API<br/>
--C#<br/>
--SQL Server<br/>
--MVC<br/>
--Git/GitHub<br/>
--Team Work
+My interest and curiosity towards the computer world made me follow various topics in this field since childhood.
+I consider myself a creative and innovative person and I am thirsty to learn and try different and new technologies.
+I am currently learning programming and plan to become a MERN developer.
 
 <br/>
 <br/>
