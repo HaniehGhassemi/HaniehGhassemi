@@ -34,5 +34,5 @@ I am currently learning programming and plan to become a MERN developer.
   <img align="left" alt="My Stack Overflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
 </a>
 <a href="https://leetcode.com/HaniehGhassemi/" target="blank">
-  <img align="left" alt="My LeetCode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" />
+  <img align="left" alt="My LeetCode" width="22px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
 </a>
