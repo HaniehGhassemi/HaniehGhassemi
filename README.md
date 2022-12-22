@@ -24,15 +24,15 @@ I am currently learning programming and plan to become a MERN developer.
 <h3>Conect With Me</h3>
 
 </a>
-<a href="https://www.linkedin.com/in/hanieh-ghassemi/">
+<a href="https://www.linkedin.com/in/hanieh-ghassemi/" target="_blank">
   <img align="left" alt="Hanieh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="mailto:shaniehghsmie@gmail.com" target="blank">
+<a href="mailto:shaniehghsmie@gmail.com" target="_blank">
   <img align="left" alt="Send Mail to me" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
-<a href="https://stackoverflow.com/users/16680247/hanieh-ghassemi?tab=profile" target="blank">
+<a href="https://stackoverflow.com/users/16680247/hanieh-ghassemi?tab=profile" target="_blank">
   <img align="left" alt="My Stack Overflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
 </a>
-<a href="https://leetcode.com/HaniehGhassemi/" target="blank">
+<a href="https://leetcode.com/HaniehGhassemi/" target="_blank">
   <img align="left" alt="My LeetCode" width="22px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
 </a>
