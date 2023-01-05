@@ -26,7 +26,7 @@ I am currently learning programming and plan to become a MERN developer.
 
 </a>
 <a href="https://www.linkedin.com/in/hanieh-ghassemi/">
-  <img align="left" alt="Hanieh's LinkedIN" width="22px" src="[LinkedIn_2021](https://user-images.githubusercontent.com/89027450/210721308-6afbac31-6bf8-4ad7-a83e-c4df3acae054.png)" />
+  <img align="left" alt="Hanieh's LinkedIN" width="22px" src="https://user-images.githubusercontent.com/89027450/210721308-6afbac31-6bf8-4ad7-a83e-c4df3acae054.png" />
 </a>
 <a href="mailto:shaniehghsmie@gmail.com">
   <img align="left" alt="Send Mail to me" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
