@@ -1,7 +1,7 @@
 <h1>Hi, I'm Hanieh 👋</h1>
-My interest and curiosity towards the computer world made me follow various topics in this field since childhood.
+<p style="text-align: justify">My interest and curiosity towards the computer world made me follow various topics in this field since childhood.
 I consider myself a creative and innovative person and I am thirsty to learn and try different and new technologies.
-I am currently learning programming and plan to become a MERN developer.
+I am currently learning programming and plan to become a MERN developer.<p>
 
 <br/>
 <br/>
