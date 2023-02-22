@@ -1,5 +1,19 @@
 <h1>Hi, I'm Hanieh 👋</h1>
 <p style="text-align: justify">My interest and curiosity towards the computer world made me follow various topics in this field since childhood. I consider myself a creative and innovative person and I am thirsty to learn and try different and new technologies. I am currently learning programming and plan to become a MERN developer.<p>
+  
+<div style="display:flex; justify-content: center;"></a>
+<a href="https://www.linkedin.com/in/hanieh-ghassemi/">
+  <img align="left" alt="Hanieh's LinkedIN" width="22px" src="https://user-images.githubusercontent.com/89027450/210721308-6afbac31-6bf8-4ad7-a83e-c4df3acae054.png" />
+</a>
+<a href="mailto:shaniehghsmie@gmail.com">
+  <img align="left" alt="Send Mail to me" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
+<a href="https://stackoverflow.com/users/16680247/hanieh-ghassemi?tab=profile">
+  <img align="left" alt="My Stack Overflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
+</a>
+<a href="https://leetcode.com/HaniehGhassemi/">
+  <img align="left" alt="My LeetCode" width="22px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
+</a></div>
 
 <br/>
 <br/>
@@ -15,23 +29,6 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=falat&color=black&logo=dotnet&logoColor=684098)   ![Microsoft Sql](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&&color=black&logo=microsoft-sql-server&logoColor=red)    ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&color=black&logo=docker&logoColor=skyblue)    ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&color=black&logo=Swagger&logoColor=green) ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 
-
-<h2>Personal Projects</h2>
-
-[![Prim Algorithm](https://img.shields.io/badge/-🕸&nbsp;&nbsp;Prim&nbsp;Algorithm-000000?style=flat)](https://github.com/HaniehGhassemi/Prim-Algorithm)   [![Multiplication-of-large-integers-Algorithm](https://img.shields.io/badge/-🧮&nbsp;&nbsp;Multiplication&nbsp;of&nbsp;large&nbsp;integers&nbsp;Algorithm-000000?style=flat)](https://github.com/HaniehGhassemi/Multiplication-of-large-integers-Algorithm)
-
 <h2>Conect With Me</h2>
 
-</a>
-<a href="https://www.linkedin.com/in/hanieh-ghassemi/">
-  <img align="left" alt="Hanieh's LinkedIN" width="22px" src="https://user-images.githubusercontent.com/89027450/210721308-6afbac31-6bf8-4ad7-a83e-c4df3acae054.png" />
-</a>
-<a href="mailto:shaniehghsmie@gmail.com">
-  <img align="left" alt="Send Mail to me" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
-<a href="https://stackoverflow.com/users/16680247/hanieh-ghassemi?tab=profile">
-  <img align="left" alt="My Stack Overflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
-</a>
-<a href="https://leetcode.com/HaniehGhassemi/">
-  <img align="left" alt="My LeetCode" width="22px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
-</a>
+
