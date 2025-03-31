@@ -1,34 +1,35 @@
-<h1>Hi, I'm Hanieh 👋</h1>
-<p style="text-align: justify">I am a dedicated Frontend Developer with a strong passion for building interactive, high-performance web applications. Specializing in React, Vue.js, TypeScript, JavaScript, HTML, and CSS, I focus on optimizing performance, ensuring scalability, and enhancing SEO.
-Throughout my career, I’ve taken a lead role in developing innovative web solutions, focusing on delivering seamless user experiences and collaborating with cross-functional teams to ensure high-quality outputs. I have extensive experience working on error tracking, monitoring systems, and implementing unit testing to ensure reliability and maintainability.
-I am committed to creating user-centric solutions that solve real-world problems while staying up-to-date with the latest trends and technologies in web development.<p>
+# Hi, I'm Hanieh 👋
 
-<br/>
-<br/>
+I am a passionate Frontend Developer specializing in building scalable, high-performance web applications. My expertise lies in **React, Vue.js, TypeScript, and JavaScript**, focusing on creating **SEO-friendly, accessible, and efficient** user interfaces. 
 
-<h2>Languages</h2>
+I have experience leading frontend projects, optimizing **monitoring and logging systems**, and implementing **unit testing** to ensure maintainability and reliability. My goal is to create user-centric solutions that enhance digital experiences while continuously improving my skills and staying up-to-date with the latest web technologies.
 
-![c#](https://img.shields.io/badge/C%23-239120?style=flat&color=black&logo=c-sharp&logoColor=a076da)    ![JS](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)        ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&&color=black&logo=html5&logoColor=orange)     ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+---
+
+## 🛠 Technologies & Tools
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=flat&logo=vuedotjs&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6)
+![HTML](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/Sass-000000?style=flat&logo=sass&logoColor=CC6699)
+![RESTful APIs](https://img.shields.io/badge/REST-000000?style=flat&logo=rest&logoColor=blue)
+
+### **Testing & Monitoring**  
+![Vitest](https://img.shields.io/badge/Vitest-000000?style=flat&logo=vitest&logoColor=yellow)  
+![Sentry](https://img.shields.io/badge/Sentry-000000?style=flat&logo=sentry&logoColor=white)  
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-000000?style=flat&logo=elasticsearch&logoColor=005571)  
 
 
-<h2>Technologies</h2>
+---
 
+## 📫 Connect With Me
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=falat&color=black&logo=dotnet&logoColor=684098)   ![Microsoft Sql](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&&color=black&logo=microsoft-sql-server&logoColor=red)    ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&color=black&logo=docker&logoColor=skyblue)    ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&color=black&logo=Swagger&logoColor=green) ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-
-<h2>Conect With Me</h2>
-</a>
-<a href="https://www.linkedin.com/in/hanieh-ghassemi/">
-  <img align="left" alt="Hanieh's LinkedIN" width="22px" src="https://user-images.githubusercontent.com/89027450/210721308-6afbac31-6bf8-4ad7-a83e-c4df3acae054.png" />
-</a>
-<a href="mailto:shaniehghsmie@gmail.com">
-  <img align="left" alt="Send Mail to me" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
-<a href="https://stackoverflow.com/users/16680247/hanieh-ghassemi?tab=profile">
-  <img align="left" alt="My Stack Overflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
-</a>
-<a href="https://leetcode.com/HaniehGhassemi/">
-  <img align="left" alt="My LeetCode" width="22px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
-</a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/hanieh-ghassemi/)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=EA4335)](mailto:haniehghsmie@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-000000?style=flat&logo=stackoverflow&logoColor=F58025)](https://stackoverflow.com/users/16680247/hanieh-ghassemi?tab=profile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=FFA116)](https://leetcode.com/HaniehGhassemi/)
