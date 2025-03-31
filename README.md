@@ -16,9 +16,7 @@ I have experience leading frontend projects, optimizing **monitoring and logging
 ![CSS](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
 ![Sass](https://img.shields.io/badge/Sass-000000?style=flat&logo=sass&logoColor=CC6699)
 ![RESTful APIs](https://img.shields.io/badge/REST-000000?style=flat&logo=rest&logoColor=blue)
-![Vitest](https://img.shields.io/badge/Vitest-000000?style=flat&logo=vitest&logoColor=yellow)  
-![Sentry](https://img.shields.io/badge/Sentry-000000?style=flat&logo=sentry&logoColor=white)  
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-000000?style=flat&logo=elasticsearch&logoColor=005571)  
+![Vitest](https://img.shields.io/badge/Vitest-000000?style=flat&logo=vitest&logoColor=yellow)  ![Sentry](https://img.shields.io/badge/Sentry-000000?style=flat&logo=sentry&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-000000?style=flat&logo=elasticsearch&logoColor=005571)  
 
 
 
