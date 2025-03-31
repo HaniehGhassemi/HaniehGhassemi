@@ -4,11 +4,9 @@ I am a passionate Frontend Developer specializing in building scalable, high-per
 
 I have experience leading frontend projects, optimizing **monitoring and logging systems**, and implementing **unit testing** to ensure maintainability and reliability. My goal is to create user-centric solutions that enhance digital experiences while continuously improving my skills and staying up-to-date with the latest web technologies.
 
----
 
-## 🛠 Technologies & Tools
 
-### **Frontend**
+### 🛠 Technologies & Tools
 ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=flat&logo=vuedotjs&logoColor=4FC08D)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=FFFFFF)
@@ -18,8 +16,6 @@ I have experience leading frontend projects, optimizing **monitoring and logging
 ![CSS](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
 ![Sass](https://img.shields.io/badge/Sass-000000?style=flat&logo=sass&logoColor=CC6699)
 ![RESTful APIs](https://img.shields.io/badge/REST-000000?style=flat&logo=rest&logoColor=blue)
-
-### **Testing & Monitoring**  
 ![Vitest](https://img.shields.io/badge/Vitest-000000?style=flat&logo=vitest&logoColor=yellow)  
 ![Sentry](https://img.shields.io/badge/Sentry-000000?style=flat&logo=sentry&logoColor=white)  
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-000000?style=flat&logo=elasticsearch&logoColor=005571)  
