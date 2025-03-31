@@ -1,5 +1,7 @@
 <h1>Hi, I'm Hanieh 👋</h1>
-<p style="text-align: justify">My interest and curiosity towards the computer world made me follow various topics in this field since childhood. I consider myself a creative and innovative person and I am thirsty to learn and try different and new technologies. I am currently learning programming and plan to become a MERN developer.<p>
+<p style="text-align: justify">I am a dedicated Frontend Developer with a strong passion for building interactive, high-performance web applications. Specializing in React, Vue.js, TypeScript, JavaScript, HTML, and CSS, I focus on optimizing performance, ensuring scalability, and enhancing SEO.
+Throughout my career, I’ve taken a lead role in developing innovative web solutions, focusing on delivering seamless user experiences and collaborating with cross-functional teams to ensure high-quality outputs. I have extensive experience working on error tracking, monitoring systems, and implementing unit testing to ensure reliability and maintainability.
+I am committed to creating user-centric solutions that solve real-world problems while staying up-to-date with the latest trends and technologies in web development.<p>
 
 <br/>
 <br/>
