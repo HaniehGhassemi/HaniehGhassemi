@@ -21,7 +21,6 @@ I have experience leading frontend projects, optimizing **monitoring and logging
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-000000?style=flat&logo=elasticsearch&logoColor=005571)  
 
 
----
 
 ## 📫 Connect With Me
 
